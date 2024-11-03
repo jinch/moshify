@@ -1,0 +1,3 @@
+[build]
+  command = "npx parcel index.html"
+  publish = "dist"  
